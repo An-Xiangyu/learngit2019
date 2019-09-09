@@ -1,1 +1,2 @@
 init
+exit = 1
